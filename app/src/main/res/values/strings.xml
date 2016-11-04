@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Variable Column Width Demo</string>
+    <string name="item_column_title">Item</string>
+    <string name="item_details_column_title">Item Details</string>
+    <string name="price_column_title">Price</string>
+    <string name="tax_column_title">Tax</string>
+    <string name="qty_column_title">Qty</string>
+    <string name="total_columnn_title">Total</string>
+    <string name="currency_format">$#,##0.00</string>
+</resources>
