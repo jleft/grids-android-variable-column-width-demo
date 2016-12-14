@@ -4,7 +4,7 @@ Customize the width of individual columns in shinobigrids for Android to improve
 Building the project
 ------------------
 
-In order to build this project you'll need a copy of __shinobigrids__ for Android. If you don't have it yet, you can download a free trial from the [**shinobicontrols** website](https://www.shinobicontrols.com/).
+In order to build this project you'll need a copy of __shinobigrids__ for Android. If you don't have it yet, you can download a free trial from the [**shinobicontrols** website](https://www.shinobicontrols.com/). Full instructions on how to integrate the library into your project can be found in the docs section of the product download bundle.
 
 If you're using the trial version you'll need to add your license key.
 
